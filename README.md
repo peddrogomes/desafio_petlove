@@ -1,5 +1,6 @@
 ## Desafio Petlove
 #### Pedro Gomes
+### O desafio foi proposto no processo seletivo de analise de dados.
 
 ### A análise dos dados consistiu em uma analise em relação ao tempo (mês a mês) e uma análise geografica (em relação aos estados).
 
